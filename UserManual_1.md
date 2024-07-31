@@ -51,7 +51,7 @@ The Workforce Scheduler application supports two User Profiles, Company Admin an
 ## 3.1 Company Admin
 The Company Admin manages all aspects of the company assigned to them. Company Admin has full access to all branches, teams, and user data.
 The Company Admin can perform any task related to company management, including:
-##
+>
 *	Creating and editing branches
 *	Creating and managing teams within branches
 *	Creating and editing team schedules
@@ -61,15 +61,13 @@ The Company Admin can perform any task related to company management, including:
 ***Image 2: Landing page for Company Admin***
 
 Upon login, the Company Admin will see a landing page focused on the entire company.
-For detailed information on the functions of each tab on the company page, refer to Section 4 Workforce Scheduler Layout.
-
-
+For detailed information on the functions of each tab on the company page, refer to [Section 4 Workforce Scheduler Layout](https://github.com/jaiacl/Workforce-Scheduler-User-Mnual/blob/main/UserManual_1.md#4-workforce-scheduler-layout).
 
 
 ## 3.2 Roster Planner 
 The Roster Planner manages the schedules and rosters for teams assigned to them, as well as perform tasks such as:
 
-##
+
 * Creating and editing branches
 * Viewing information about their assigned teams (employees, skills, leaves)
 * Creating and editing team schedules
@@ -80,7 +78,7 @@ The Roster Planner manages the schedules and rosters for teams assigned to them,
 ***Image 3: Landing page for Roster Planner***
 
 When the roster planner logs in, they land on a dedicated page focused on the team.
-For detailed information on the functions of each tab on the planner page, refer to Section 4 Workforce Scheduler Layout.
+For detailed information on the functions of each tab on the planner page, refer to [Section 4 Workforce Scheduler Layout](https://github.com/jaiacl/Workforce-Scheduler-User-Mnual/blob/main/UserManual_1.md#4-workforce-scheduler-layout).
 , refer to Section 4 Workforce Scheduler Layout.
 
 <div style="background-color: #DAE3F3;;border:2px solid black; width: 500px;padding: 1px; border-radius: 1px; margin: 20px";
